@@ -6,13 +6,12 @@
     <Point>
       <coordinates>-122.087461,37.422069</coordinates>
     </Point>
-    <LineString>
-  <coordinates>
-   135.2, 35.4, 0. 
-   135.4, 35.6, 0.
-   135.2, 35.6, 0.
-  </coordinates>
- </LineString>
+  </Placemark>
+  <Placemark>
+    <name>KUPE</name>
+    <description>Toto je KuPe</description>
+    <Point>
+      <coordinates>-121.087461,39.422069</coordinates>
+    </Point>
   </Placemark>
 </kml>
-
