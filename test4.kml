@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>My office</name>
+    <description>Hláska</description>
+    <Point>
+      <coordinates>49.938842,17.902585</coordinates>
+    </Point>
+    <Point>
+      <coordinates>49.9388421,17.902585</coordinates>
+    </Point>
+  </Placemark>
+</kml>
