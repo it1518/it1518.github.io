@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://earth.google.com/kml/2.0"> <Document>
+
+<Placemark> 
+ <name> New Line</name> 
+ <TimeSpan> 
+  <begin>2010-12-20T03:00:00Z</begin>
+  <end>2010-12-21T02:59:59Z</end>
+ </TimeSpan>
+ <description>This is a new line.</description>
+ <LineString>
+  <coordinates>
+   135.2, 35.4, 1000. 
+   135.4, 35.6, 10000.
+   135.2, 35.6, 5000.
+  </coordinates>
+  <altitudeMode>absolute</altitudeMode>
+ </LineString>
+ 
+ <Style> 
+  <LineStyle>  
+   <color>#ff0000ff</color>
+   <width>5</width>
+  </LineStyle> 
+  <BalloonStyle>
+  <bgColor>00664422</bgColor> <textColor>fffffff</textColor>
+  <text><![CDATA[ $[name] <HR> $[description] <BR>  
+   <A HREF="http://www-step.kugi.kyoto-u.ac.jp/">SPEL Home page</A>
+  ]]> </text>
+ </BalloonStyle>
+ </Style>
+</Placemark>
+
+</Document> </kml>
