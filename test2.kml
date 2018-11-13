@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>My office</name>
+    <description>This is the location of my office.</description>
+    <Point>
+      <coordinates>-122.087461,37.422069</coordinates>
+    </Point>
+    <Point>
+      <coordinates>-121.087461,39.422069</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DVa</name>
+    <description>Toto je místo 2.</description>
+    <Point>
+      <coordinates>-120.087461,37.422069</coordinates>
+    </Point>
+    <Point>
+      <coordinates>-122.087461,39.422069</coordinates>
+    </Point>
+  </Placemark>
+</kml>
